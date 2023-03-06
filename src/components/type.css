@@ -1,0 +1,18 @@
+/* .container-type{
+    background-color: #322057;
+    //colors :  yello - #FCF951 blue - #322057
+} */
+.row-type {
+  background-color: #322057;
+}
+
+.col-type {
+  color: #080809;
+  background-color: rgb(197, 211, 211);
+}
+
+.col-for {
+  background-color: whitesmoke;
+  color: #0f0f0f;
+  margin: 5px;
+}

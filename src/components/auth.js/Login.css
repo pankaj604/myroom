@@ -1,0 +1,73 @@
+.container-main{
+	background-color: azure;
+	height: 75vh;
+	margin: 2rem;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+*{
+	margin: 0;
+}
+.img-ggl{
+	height: 25px;
+	width: 25px;
+}
+.btn-signup{
+	color: antiquewhite;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/837/non_2x/abstract-dark-blue-geometric-polygonal-form-background-vector.jpg");
+	box-shadow: rgba(227, 215, 215, 0.25) 0px 54px 55px, rgba(211, 197, 197, 0.12) 0px -12px 30px, rgba(230, 208, 208, 0.12) 0px 4px 6px, rgba(232, 212, 212, 0.17) 0px 12px 13px, rgba(222, 212, 212, 0.09) 0px -3px 5px;
+	
+}
+.container-second{
+	background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/837/non_2x/abstract-dark-blue-geometric-polygonal-form-background-vector.jpg");
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+	
+	
+}
+
+.label{
+	color: rgb(249, 244, 244);
+}
+
+h2{
+	color: rgb(14, 138, 234);
+	margin: auto;
+}
+
+body{
+	background-color:whitesmoke;
+}
+
+.welcome{
+	padding: 
+	20px;
+	color: antiquewhite;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/837/non_2x/abstract-dark-blue-geometric-polygonal-form-background-vector.jpg");
+	box-shadow: rgba(13, 225, 98, 0.25) 0px 54px 55px, rgba(211, 197, 197, 0.12) 0px -12px 30px, rgba(230, 208, 208, 0.12) 0px 4px 6px, rgba(232, 212, 212, 0.17) 0px 12px 13px, rgba(222, 212, 212, 0.09) 0px -3px 5px;
+}
+
+.login-button{
+
+	color: antiquewhite;
+	/* background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/837/non_2x/abstract-dark-blue-geometric-polygonal-form-background-vector.jpg"); */
+	background-color: rgb(87, 11, 141);
+}
+
+.signup-button{
+
+	color: antiquewhite;
+	background-color: rgb(87, 11, 141);
+	/* background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/837/non_2x/abstract-dark-blue-geometric-polygonal-form-background-vector.jpg"); */
+
+}
+.input{
+	background-color: rgb(184, 184, 176);
+}
+.div-welcome{
+	padding: rem;
+}

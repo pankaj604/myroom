@@ -1,0 +1,21 @@
+.container-one{
+
+    background-color: #FCF951 ;
+   
+}
+
+.p-1{
+    color: #422057;
+}
+
+input{
+    width: 100%;
+    background-color: #422057;
+    color: #422057;
+}
+
+.home , .input , .search  , .cities{
+    background-color:#422057;
+    color: #FCF951;
+    
+}
