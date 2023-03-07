@@ -1,18 +1,20 @@
-/* .container-type{
-    background-color: #322057;
-    //colors :  yello - #FCF951 blue - #322057
+/* 
+    //colors : yello - #FCF951 blue - #422057
 } */
 .row-type {
-  background-color: #322057;
+  background-color: #422057;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 .col-type {
-  color: #080809;
-  background-color: rgb(197, 211, 211);
+  color: #ffffff;
+  background-color: #d5d5d5;
+  text-shadow: 2px 2px 4px  black;
 }
 
 .col-for {
-  background-color: whitesmoke;
-  color: #0f0f0f;
+  color: #ffffff;
+  background-color: #d5d5d5;
+  text-shadow: 2px 2px 4px  black;
   margin: 5px;
 }

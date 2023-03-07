@@ -16,7 +16,7 @@ const Navbar = () => {
                 Home
              </div>
              <div class="d-flex rounded justify-content-center input p-0 col-5">
-                 <input className="input rounded bg-light" />
+                 <input placeholder=" search cities" className="input rounded bg-light" />
              </div>
              <div class="d-flex justify-content-center m-1 rounded  search col-2">
                  search

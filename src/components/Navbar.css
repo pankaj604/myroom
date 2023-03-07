@@ -1,21 +1,24 @@
 .container-one{
 
-    background-color: #FCF951 ;
+    background-color:  #322057 ;
    
 }
 
 .p-1{
     color: #422057;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 
 input{
     width: 100%;
     background-color: #422057;
-    color: #422057;
+    color: #0d0d0d;
 }
 
-.home , .input , .search  , .cities{
-    background-color:#422057;
-    color: #FCF951;
+.home  , .search  , .cities{
+    color: #ffffff;
+    background-color: #d5d5d5;
+    text-shadow: 2px 2px 4px  black;
+    
     
 }
